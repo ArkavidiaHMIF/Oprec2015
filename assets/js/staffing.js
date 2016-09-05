@@ -11,6 +11,7 @@ $(function() {
         'Logistik',
         'PubDok',
         'Artistik & Desain',
+        'MSDM'
     ];
     var divisionItemTemplate =
         '<div class="col-md-4 col-sm-4 col-xs-6 division-item">'
@@ -178,6 +179,7 @@ $(function() {
             "entry.635768870",
             "entry.1162722898",
             "entry.1134190269",
+            "entry.2021407420"
         ],
         reason: [
             "entry.135886004",
