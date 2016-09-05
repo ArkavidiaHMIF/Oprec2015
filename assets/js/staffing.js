@@ -1,23 +1,16 @@
 $(function() {
     var division = [
-        'Bendahara',
-        'Sekretaris',
-        'Rumah Tangga',
-        'Marketing',
-        'Manajemen Proyek',
-        'Teknikal',
-        'Intrakampus',
-        'Ekstrakampus',
-        'Pengmas',
-        'Kekeluargaan',
-        'PMB',
-        'Kaderisasi',
-        'MSDA',
-        'Akademik',
-        'Publikasi',
-        'Kreatif',
-        'Tim Senator',
-        'DPP'
+        'Dana Usaha',
+        'Sponsorship',
+        'Lomba',
+        'Seminar',
+        'Expo',
+        'Perform',
+        'Perizinan',
+        'Hubungan Lembaga',
+        'Logistik',
+        'PubDok',
+        'Artistik & Desain',
     ];
     var divisionItemTemplate =
         '<div class="col-md-4 col-sm-4 col-xs-6 division-item">'
@@ -165,40 +158,33 @@ $(function() {
     //////////////////////
 
     // google form key
-    var formKey = "1-pndV7gWHUg9QsvQyXdzpw63DJxd_UkJp-FNwpIuCNU";
+    var formKey = "1xCp2IPPBflE7V70QPd9vX5AKa3OzzQS9bbPNZVw0I-0";
 
     // google form entry key
     var formEntries = {
-        nim:    "entry.1719197950",
-        nama:   "entry.1270260493",
-        telepon:"entry.265761041",
-        idline: "entry.919817710",
+        nim:    "entry.1620200740",
+        nama:   "entry.411418840",
+        telepon:"entry.1775397569",
+        idline: "entry.1841081252",
         division: [
-            "entry.1913572718",
-            "entry.2061202386",
-            "entry.1624881999",
-            "entry.1350220173",
-            "entry.277885585",
-            "entry.933546810",
-            "entry.1521225000",
-            "entry.201225294",
-            "entry.257564708",
-            "entry.65830304",
-            "entry.1198737195",
-            "entry.1170044625",
-            "entry.1050247186",
-            "entry.1484587408",
-            "entry.354642495",
-            "entry.2045009708",
-            "entry.124631733",
-            "entry.1088765625"
+            "entry.281891049",
+            "entry.604737972",
+            "entry.1852657490",
+            "entry.712297424",
+            "entry.932054960",
+            "entry.932264221",
+            "entry.272239464",
+            "entry.1771923115",
+            "entry.635768870",
+            "entry.1162722898",
+            "entry.1134190269",
         ],
         reason: [
-            "entry.1575940720",
-            "entry.1117517217",
-            "entry.1608496440"
+            "entry.135886004",
+            "entry.1087962315",
+            "entry.46638685"
         ],
-        shuffled:"entry.1580498851"
+        shuffled:"entry.1486782934"
     };
 
 
