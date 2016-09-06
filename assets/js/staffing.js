@@ -6,7 +6,6 @@ $(function() {
         'Seminar',
         'Expo',
         'Perform',
-        'Perizinan',
         'Hubungan Lembaga',
         'Logistik',
         'Pubdok',
@@ -178,8 +177,7 @@ $(function() {
             "entry.1771923115",
             "entry.635768870",
             "entry.1162722898",
-            "entry.1134190269",
-            "entry.2021407420"
+            "entry.1134190269"
         ],
         reason: [
             "entry.135886004",
