@@ -9,7 +9,7 @@ $(function() {
         'Perizinan',
         'Hubungan Lembaga',
         'Logistik',
-        'PubDok',
+        'Pubdok',
         'Artistik & Desain',
         'MSDM'
     ];
