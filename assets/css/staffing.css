@@ -68,3 +68,7 @@ input.error, textarea.error, input.error:focus, textarea.error:focus {
 .modal .info {
     margin-bottom: 10px;
 }
+
+.box{
+  border:1px
+}
